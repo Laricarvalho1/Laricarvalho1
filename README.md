@@ -31,18 +31,19 @@ Sobre Mim
 - Experiência com prototipagem no **Figma**, **arquitetura de software** e **bancos de dados**
 - Aberta a oportunidades de **estágio e desenvolvimento de projetos**
 
+Tecnologias
 <div align="center">
 
   <!-- Estilo inline para fundo branco arredondado nos ícones -->
   
   <!-- Linguagens & Desenvolvimento Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
 
   <br/><br/>
 
