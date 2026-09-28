@@ -2,7 +2,7 @@
 
   <!-- Efeito de Digitação do Título e Bio -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=550000&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=ffffff&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,14 +11,14 @@
 
   <!-- Botões de Redes Sociais com Fundo #550000 e Cantos Arredondados (Radius 25px) -->
   <p align="center">
-    <a href="SEU_LINK_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-550000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 25px;" height="40" />
+    <a href="www.linkedin.com/in/larissa-carvalho-nascimento" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-550000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;" height="40" />
     </a>
-    <a href="SEU_LINK_BEHANCE" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-550000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="border-radius: 25px;" height="40" />
+    <a href="https://www.behance.net/larissacarvalho127" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-550000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="border-radius: 50px;" height="40" />
     </a>
-    <a href="mailto:seu-email@dominio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-550000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 25px;" height="40" />
+    <a href="mailto:laricarvalhonascimento@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-550000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;" height="40" />
     </a>
   </p>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Linguagens, Ferramentas e Tecnologias
+Linguagens, Ferramentas e Tecnologias
 
 <div align="center">
 
@@ -71,19 +71,12 @@
 
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine&title_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
 </div>
 
----
-
-### 🐍 Gráfico de Contribuições (Snake Animation)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Laricarvalho1/Laricarvalho1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
