@@ -2,23 +2,23 @@
 
   <!-- Efeito de Digitação do Título e Bio -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=font=JetBrains+Mono&weight=600&size=24&pause=1000&color=550000&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=550000&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <i>Desenvolvedora Full Stack em formação, focada em criar experiências digitais eficientes, funcionais e intuitivas.</i>
   </p>
 
-  <!-- Botões de Redes Sociais com Ícones Oficiais e Fundo #550000 -->
+  <!-- Botões de Redes Sociais com Fundo #550000 e Cantos Arredondados (Radius 25px) -->
   <p align="center">
     <a href="www.linkedin.com/in/larissa-carvalho-nascimento" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-550000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-550000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 25px;" height="40" />
     </a>
     <a href="https://www.behance.net/larissacarvalho127" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-550000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+      <img src="https://img.shields.io/badge/Behance-550000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="border-radius: 25px;" height="40" />
     </a>
     <a href="mailto:laricarvalhonascimento@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-550000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-550000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 25px;" height="40" />
     </a>
   </p>
 
@@ -26,46 +26,63 @@
 
 ---
 
+### 💻 Efeito de Digitação das Skills (Primeira frase em Branco)
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=550000&center=true&vcenter=true&width=600&lines=Linguagens%3A+Java+%7C+Python+%7C+TypeScript+%7C+SQL;Bancos+de+Dados%3A+PostgreSQL+%7C+MongoDB;Design%3A+Figma+%7C+Canva;Sistemas%3A+Linux+%7C+Windows" alt="Skills Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FFFFFF&center=true&vcenter=true&width=600&lines=Linguagens%3A+Java+%7C+Python+%7C+TypeScript+%7C+SQL;Bancos+de+Dados%3A+PostgreSQL+%7C+MongoDB;Design%3A+Figma+%7C+Canva;Sistemas%3A+Linux+%7C+Windows" alt="Skills Typing SVG" />
   </a>
 </div>
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
+
 <div align="center">
 
   #### Linguagens & Desenvolvimento
   <p>
-    <img src="https://img.shields.io/badge/Java-550000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-550000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-550000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/SQL-550000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" title="SQL" />
   </p>
+
+  <br />
 
   #### Bancos de Dados
   <p>
-    <img src="https://img.shields.io/badge/MongoDB-550000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-550000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
   </p>
+
+  <br />
 
   #### UI/UX & Design
   <p>
-    <img src="https://img.shields.io/badge/Figma-550000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Canva-550000?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" title="Canva" />
   </p>
+
+  <br />
 
   #### Ambientes & Sistemas
   <p>
-    <img src="https://img.shields.io/badge/Linux-550000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Windows-550000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" title="Windows" />
   </p>
 
 </div>
 
 ---
 
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
