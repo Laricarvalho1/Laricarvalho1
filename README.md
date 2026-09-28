@@ -80,3 +80,12 @@ Linguagens, Ferramentas e Tecnologias
 <div align="center">
   <img src="https://raw.githubusercontent.com/Laricarvalho1/Laricarvalho1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+<div align="center">
+  <br />
+  <img src="rodapegit![Uploading rodapegit.png…]()
+.png" alt="Rodapé do Perfil" width="100%" max-width="850" style="border-radius: 15px;" />
+</div>
+
+
+
