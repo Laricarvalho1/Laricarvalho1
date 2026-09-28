@@ -81,10 +81,7 @@
 
 <div align="center">
   <br />
-  <img src="rodapegit<img width="850" height="200" alt="rodapegit" src="https://github.com/user-attachments/assets/a0f57d7d-8dfc-458a-94f2-a93b150534b3" />
-.png" alt="Rodapé do Perfil" width="100%" max-width="850" style="border-radius: 15px;" />
+  <img src="rodapegit.png" alt="Rodapé do Perfil" width="100%" max-width="850" style="border-radius: 15px;" />
 </div>
 
 
-
-![Uploading rodapegit.png…]()
