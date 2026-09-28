@@ -24,55 +24,49 @@
 
 </div>
 
----
+Sobre Mim
+
+- Graduanda em **Ciência da Computação (4° período)**
+- Atuação focada no desenvolvimento de software, **sistemas web** e **UI/UX Design**
+- Experiência com prototipagem no **Figma**, **arquitetura de software** e **bancos de dados**
+- Aberta a oportunidades de **estágio e desenvolvimento de projetos**
 
 <div align="center">
 
-  <!-- Linguagens de Programação e Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" title="C" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3" />
+  <!-- Estilo inline para fundo branco arredondado nos ícones -->
   
-  <br /><br />
+  <!-- Linguagens & Desenvolvimento Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" style="background-color: #ffffff; padding: 7px; border-radius: 12px; margin: 3px;" />
+
+  <br/><br/>
 
   <!-- Bancos de Dados & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" title="SQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
 
-  <br /><br />
+  <br/><br/>
 
-  <!-- UI/UX Design & Sistemas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" title="Canva" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" title="Windows" />
+  <!-- UI/UX & Sistemas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" width="38" height="38" style="background-color: #550000; padding: 7px; border-radius: 12px; margin: 3px;" />
 
 </div>
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine&title_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laricarvalho1&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laricarvalho1&layout=compact&theme=rose_pine&title_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
 </div>
 
 <div align="center">
@@ -81,7 +75,7 @@
 
 <div align="center">
   <br />
-  <img src="rodapegit.png" alt="Rodapé do Perfil" width="100%" max-width="850" style="border-radius: 15px;" />
+  <img src="rodapegit(2000 x 200 px).png" alt="Rodapé do Perfil" width="100%" max-width="850" style="border-radius: 15px;" />
 </div>
 
 
