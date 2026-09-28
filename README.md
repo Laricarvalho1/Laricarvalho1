@@ -2,7 +2,7 @@
 
   <!-- Efeito de Digitação do Título e Bio -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=550000&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=font=JetBrains+Mono&weight=600&size=24&pause=1000&color=550000&center=true&vcenter=true&width=500&lines=Desenvolvedora+Full+Stack;UI%2FUX+Designer;Solu%C3%A7%C3%B5es+Web+%26+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -33,8 +33,6 @@
 </div>
 
 ---
-
-###Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -68,7 +66,6 @@
 
 ---
 
-###Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
