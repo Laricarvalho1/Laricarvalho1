@@ -11,13 +11,13 @@
 
   <!-- Botões de Redes Sociais com Ícones Oficiais e Fundo #550000 -->
   <p align="center">
-    <a href="SEU_LINK_LINKEDIN" target="_blank">
+    <a href="www.linkedin.com/in/larissa-carvalho-nascimento" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-550000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="SEU_LINK_BEHANCE" target="_blank">
+    <a href="https://www.behance.net/larissacarvalho127" target="_blank">
       <img src="https://img.shields.io/badge/Behance-550000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
-    <a href="mailto:seu-email@dominio.com" target="_blank">
+    <a href="mailto:laricarvalhonascimento@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-550000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -25,8 +25,6 @@
 </div>
 
 ---
-
-### 💻 Efeito de Digitação das Skills
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -36,7 +34,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -70,7 +68,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&title_color=550000&icon_color=550000&text_color=e0e0e0&bg_color=0d1117&border_color=550000&hide_border=false" />
